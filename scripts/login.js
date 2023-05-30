@@ -22,7 +22,7 @@ document.getElementById('btn-submit').addEventListener('click', function () {
 
     if (email == 'baapka@beta.com' && password == 'maaKiPari') {
         console.log('Valid');
-        window.location.href = 'Bank.html';
+        window.location.href = 'bank.html';
         // or, location.href = 'bank.html';
     }
     else {
